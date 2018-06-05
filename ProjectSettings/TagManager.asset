@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Camisa
+  - Gorro
+  - Joyas
+  - AtkCatZone
+  - Hero
+  - Enemy
+  - Slot
+  - SlotHero
+  - Fila
+  - Plataforma
+  - SelectCatBtn
+  - TheWall
+  - SlotHero1
+  - Item
+  - Panel Tuto
+  - PanelTuto
+  - Light
+  - Shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Plataforma
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2297369515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Plataforma
+    uniqueID: 2985180605
+    locked: 0
+  - name: Hero
+    uniqueID: 236890595
+    locked: 0
+  - name: Muro
+    uniqueID: 3142491579
+    locked: 0
+  - name: Gatos
+    uniqueID: 3582285565
+    locked: 0
+  - name: BolaTesla
+    uniqueID: 116110051
+    locked: 0
+  - name: Perros
+    uniqueID: 121790443
+    locked: 0
+  - name: Foreground
+    uniqueID: 1662889019
+    locked: 0
+  - name: UI
+    uniqueID: 2099688429
+    locked: 0
